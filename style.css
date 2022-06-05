@@ -90,3 +90,15 @@ span {
 a {
 	color: #FAFAFF;
 }
+
+table {
+	width:1172px;
+	height:181px;
+	position:absolute;
+	left:134px;
+	top:890px;
+   }
+
+.container span{
+	top:700px;
+}
