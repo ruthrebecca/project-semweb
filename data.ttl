@@ -1,0 +1,138 @@
+@prefix info: <http://learningsparql.com/ns/addressbook#> .
+@prefix data:  <http://learningsparql.com/ns/data#> .
+
+#Users
+data:i19001
+    info:name           "Andrew" ;
+    info:jk             "Pria" ;
+    info:usia           "20" ;
+    info:bb             "95" ;
+    info:tb             "171" ;
+    info:bmi            "32,5" ;
+    info:kategori       "Obesity" .
+
+data:i19002
+    info:name           "Bagas" ;
+    info:jk             "Pria" ;
+    info:usia           "24" ;
+    info:bb             "85" ;
+    info:tb             "173" ;
+    info:bmi            "28,4" ;
+    info:kategori       "Overweight" .
+
+data:i19003
+    info:name           "Sarah" ;
+    info:jk             "Wanita" ;
+    info:usia           "21" ;
+    info:bb             "41" ;
+    info:tb             "152" ;
+    info:bmi            "17,7" ;
+    info:kategori       "Underweight" .
+
+data:i19004
+    info:name           "Indah" ;
+    info:jk             "Wanita" ;
+    info:usia           "26" ;
+    info:bb             "52" ;
+    info:tb             "156" ;
+    info:bmi            "21,4" ;
+    info:kategori       "Normal" .
+
+data:i19005
+    info:name           "Johan" ;
+    info:jk             "Pria" ;
+    info:usia           "20" ;
+    info:bb             "73" ;
+    info:tb             "185" ;
+    info:bmi            "21,3" ;
+    info:kategori       "Normal" .
+
+data:i19006
+    info:name           "Ivan" ;
+    info:jk             "Pria" ;
+    info:usia           "30" ;
+    info:bb             "43" ;
+    info:tb             "165" ;
+    info:bmi            "15,8" ;
+    info:kategori       "Underweight" .
+
+data:i19007
+    info:name           "Olivia" ;
+    info:jk             "Wanita" ;
+    info:usia           "21" ;
+    info:bb             "75" ;
+    info:tb             "155" ;
+    info:bmi            "31,2" ;
+    info:kategori       "Obesity" .
+
+data:i19008
+    info:name           "William" ;
+    info:jk             "Pria" ;
+    info:usia           "29" ;
+    info:bb             "67" ;
+    info:tb             "177" ;
+    info:bmi            "21,4" ;
+    info:kategori       "Normal" .
+
+data:i19009
+    info:name           "Septian" ;
+    info:jk             "Pria" ;
+    info:usia           "27" ;
+    info:bb             "63" ;
+    info:tb             "168" ;
+    info:bmi            "22,3" ;
+    info:kategori       "Normal" .
+
+data:i19010
+    info:name           "Michelle" ;
+    info:jk             "Wanita" ;
+    info:usia           "32" ;
+    info:bb             "62" ;
+    info:tb             "150" ;
+    info:bmi            "27,6" ;
+    info:kategori       "Overweight" .
+
+data:i19011
+    info:name           "Raka" ;
+    info:jk             "Pria" ;
+    info:usia           "25" ;
+    info:bb             "57" ;
+    info:tb             "167" ;
+    info:bmi            "20,4" ;
+    info:kategori       "Normal" .
+
+data:i19012
+    info:name           "Aldo" ;
+    info:jk             "Pria" ;
+    info:usia           "22" ;
+    info:bb             "77" ;
+    info:tb             "163" ;
+    info:bmi            "29,0" ;
+    info:kategori       "Overweight" .
+
+data:i19013
+    info:name           "Vanessa" ;
+    info:jk             "Wanita" ;
+    info:usia           "29" ;
+    info:bb             "53" ;
+    info:tb             "177" ;
+    info:bmi            "16,9" ;
+    info:kategori       "Underweight" .
+
+data:i19014
+    info:name           "Tiffany" ;
+    info:jk             "Wanita" ;
+    info:usia           "30" ;
+    info:bb             "48" ;
+    info:tb             "174" ;
+    info:bmi            "15,9" ;
+    info:kategori       "Underweight" .
+
+data:i19015
+    info:name           "Jessica" ;
+    info:jk             "Wanita" ;
+    info:usia           "31" ;
+    info:bb             "59" ;
+    info:tb             "162" ;
+    info:bmi            "22,5" ;
+    info:kategori       "Normal" .
